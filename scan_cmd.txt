@@ -1,0 +1,18 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 742F-130D
+
+ Directorio de C:\Users\JuanDe\Documents\ANtv26
+
+20/04/2026  16:33    <DIR>          .
+20/04/2026  16:33    <DIR>          ..
+20/04/2026  16:31               421 Antv26 C#.deps.json
+20/04/2026  16:31           982.528 Antv26 C#.dll
+20/04/2026  16:31           162.304 Antv26 C#.exe
+20/04/2026  16:31            14.596 Antv26 C#.pdb
+20/04/2026  16:25               519 Antv26 C#.runtimeconfig.json
+20/04/2026  16:35               740 scan_cmd.txt
+               6 archivos      1.161.108 bytes
+
+     Total de archivos en la lista:
+               6 archivos      1.161.108 bytes
+               2 dirs   8.289.652.736 bytes libres

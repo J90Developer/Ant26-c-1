@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Antv26 C#/1.0.0": {
+        "runtime": {
+          "Antv26 C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Antv26 C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
